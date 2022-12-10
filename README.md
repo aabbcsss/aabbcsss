@@ -1,4 +1,4 @@
- <div align="center">
+
 ### 👋 Welcome 👋
 
 
@@ -11,5 +11,6 @@
 
 
 - 🌟 My Github stat
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psw662100&show_icons=true&theme=tokyonight)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?aabbcsss=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
