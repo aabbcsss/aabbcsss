@@ -10,6 +10,6 @@
 
 
 - 🌟 My Github stat
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aabbcsss&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psw662100&show_icons=true&theme=tokyonight)
 
 
