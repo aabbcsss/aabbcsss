@@ -1,5 +1,4 @@
- <div align="center"></div>
-
+ <div align="center">
 ### 👋 Welcome 👋
 
 
@@ -13,6 +12,4 @@
 
 - 🌟 My Github stat
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psw662100&show_icons=true&theme=tokyonight)
-
-
- <div align="center"></div>
+</div>
