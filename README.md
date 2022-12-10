@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/>
 
 
-- 🌟 My Github stat
+- 🍮 My Github stat 🍮
 
 [![aabbcss's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabbcsss)](https://github.com/anuraghazra/github-readme-stats)
 
